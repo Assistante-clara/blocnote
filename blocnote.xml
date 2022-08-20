@@ -1,0 +1,10 @@
+<item>bloc note<tag>data.blocnotedata = "bloc note"</tag></item>
+<item>bloc notes<tag>data.blocnotedata = "bloc notes"</tag></item>
+<item>bloc-notes<tag>data.blocnotedata = "bloc-notes"</tag></item>
+
+
+<item>efface le bloc-notes<tag>data.blocnotelecture="0"</tag></item>
+
+<item>lecture du bloc-notes<tag>data.blocnotedata = "lecture du bloc-notes";data.blocnotelecture="1"</tag></item>
+
+<item>question</item>
